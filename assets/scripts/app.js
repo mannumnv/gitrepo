@@ -1,2 +1,1 @@
-alert('This works! ')
-alert('This may works! ')
+alert('This works!')
